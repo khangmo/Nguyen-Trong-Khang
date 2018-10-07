@@ -4,7 +4,8 @@
   company: Fsoft
   details: "Application Development for Japanese Customers</br>
   • Developing the online education system. It does not require huge Investment in server infrastructure, network bandwidth. The interaction between teachers and Students becomes convenient and more intuitive. Support the teacher manages the class, registration and favorable schedule…</br>
-  • Improving Yufuin Media Switch is a support tool that brings out the maximum diversity of cross media from paper. It supports customers with a variety of flexible applications according to customer's needs by increasing the effectiveness of marketing, expanding communication"
+  • Improving Yufuin Media Switch is a support tool that brings out the maximum diversity of cross media from paper. It supports customers with a variety of flexible applications according to customer's needs by increasing the effectiveness of marketing, expanding communication</br>
+  • Within the agreed enterprise architecture, define and design technology solutions to assist the business in meeting their business objectives"
 - experience:
   role: Software Development Engineer
   time: 2012/04 - 2014/10
@@ -18,5 +19,5 @@
   role: Web Application Developer
   time: 2010/08 - 2012/03
   company: Run System
-  details: "ASP.net"
+  details: "Web applications to support users all the information embedded media as news link(Marker), file, mail, phone in a text document"
 
