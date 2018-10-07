@@ -1,13 +1,11 @@
 intro: "Opensource projects"
 projects:
   - project:
-    title: CakePHP Skeleton
-    link: "https://github.com/agiletechvn/app"
-    tagline: "Complete web Skeleton, easy to dev. Build fast, grow solid"
+    title: NIMS
+    Description: "Network Infrastructure Management System"
   - project:
-    title: React Native Starter Kits
-    link: "https://github.com/agiletechvn/ReactNativeStarterKits"
-    tagline: "A starter kit for React Native that aims at high performance to deliver buttery-smooth UI."
+    title: NCMS
+    Description: "Network Configuration Management System"
   - project:
     title: React Native Search Box
     link: "https://github.com/agiletechvn/react-native-search-box"
