@@ -8,7 +8,7 @@ about: True # set to False or comment line if you want to remove the "How to use
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
 #style: styles-2
-style: styles-5
+style: styles-4
 #style: styles-4
 #style: styles-5
 #style: styles-6
@@ -26,8 +26,9 @@ You can view more about <a href='http://agiletech.vn' target='_blank'>Agiletech 
 
 #sidebar links
 email: khangmo@gmail.com
-phone: +84 989 032 564
+phone: +84 98  903 2564
 github: khangmo
+twitter: @khangmo1
 #Update all the sections by editing the files inside _data folder.
 
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar
