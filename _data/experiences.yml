@@ -1,23 +1,16 @@
 - experience:
-  role: Founder & Technical Manager
-  time: 2017 - Present
-  company: Agiletech Viet Nam
-  details: "Project leader, Technical manager: 
-<a href='https://facebook.github.io/react-native/' target='_blank'>React Native</a>
-<br>
-<a href='https://cakephp.org/' target='_blank'>CakePHP</a>"
+  role: Project Technical Leader
+  time: 2014 - Present
+  company: Fsoft
+  details: Application Development for Japanese Customers
 - experience:
-  role: IT
-  time: 2013/09 - 2017/08
-  company: CGV Vietnam
-  details: "PHP web programming with various framework such as CakePHP, Mobile app"
+  role: Software Development Engineer
+  time: 2012/04 - 2014/10
+  company: Viettel Corporation
+  details: "Web Application programming with various framework such as Spring and Dojo"
 - experience:
-  role: Project Manager
-  time: 2012/02 - 2013/05
-  company: FTL
-  details: "Java core, game server"
-- experience:
-  role: Java Developer
-  time: 2011/05 - 2012/01
-  company: FTL
-  details: "Java core, game server"
+  role: Web Application Developer
+  time: 2010/08 - 2012/03
+  company: Run System
+  details: "ASP.net"
+
