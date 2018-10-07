@@ -1,6 +1,7 @@
 # Site Settings
 title: Nguyen Trong Khang Resume
 description: Curriculum Vitae of khangmo@gmail.com
+url: 'http://agiletech.vn'
 baseurl: 'https://khangmo.github.io' #change it according to your repository name
 about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
