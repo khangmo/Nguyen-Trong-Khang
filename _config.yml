@@ -16,7 +16,7 @@ style: styles-3
 
 #Profile information
 name: Nguyen Trong Khang
-tagline: Founder & Technical Manager
+tagline: Webapplication Developer
 pic: https://avatars3.githubusercontent.com/u/13745269?s=460&v=4  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: "I'm 30 years old Technical Manager of Agiletech Viet Nam and senior developer from the cozy street of Ha Noi. I have more than 7 years of work experience in various positions.
 I love coding, music and swimming, football.
@@ -27,9 +27,9 @@ You can view more about <a href='http://agiletech.vn' target='_blank'>Agiletech 
 #sidebar links
 email: khangmo@gmail.com
 phone: +84 989 032 564
-website: agiletech.vn #do not add http://
+twister: @Nguyen_Trong_Kh
 github: khangmo
-facebook: 'Khang Nguyen'
+telegram: @chippynguyen2018
 #Update all the sections by editing the files inside _data folder.
 
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar
