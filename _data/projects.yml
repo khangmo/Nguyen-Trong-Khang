@@ -1,24 +1,10 @@
 intro: "Opensource projects"
 projects:
   - project:
-    title: NIMS
-    Description: "Network Infrastructure Management System"
-  - project:
-    title: NCMS
-    Description: "Network Configuration Management System"
-  - project:
-    title: React Native Search Box
-    link: "https://github.com/agiletechvn/react-native-search-box"
-    tagline: "A simple search box with animation, inspired from ios search bar. Lightweight, fast, flexible."
-  - project:
-    title: Google Recapcha V2
-    link: "https://github.com/agiletechvn/Recaptcha"
-    tagline: "CakePHP 3.2+ Easy to integrate google recaptcha v2 to your project."
-  - project:
-    title: Advance Authenticate
-    link: "https://github.com/agiletechvn/authenticate"
-    tagline: "Advance Authenticate for CakePHP 3.x to Prevent Brute Force Attack, Remember login"
-  - project:
-    title: Baokim payment gateway
-    link: "https://github.com/agiletechvn/bao-kim"
-    tagline: "CakePHP 3.x BaoKim payment gateway plugin"
+      title: HMS ()
+      link: "https://github.com/khangmo/HMS"
+      tagline: "Frontend: Angular 6, typescript, css, html, nodejs. Backend: Spring Boots framework."
+    - project:
+      title: Organized tour management system
+      link: "https://github.com/khangmo/OTMS"
+      tagline: "Frontend: reactjs, css, html, nodejs."
