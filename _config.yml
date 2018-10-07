@@ -18,7 +18,7 @@ style: styles-4
 name: Nguyen Trong Khang
 tagline: Solution Architecture
 pic: https://avatars3.githubusercontent.com/u/13745269?s=460&v=4  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: "I have more than 8 years of work experience in various positions. I love coding, movies and street food. As long as your heart tells you to keep on coding and building new things, you will be young, forever.<br>"
+summary: "I have more than 8 years of work experience in various positions. I love coding, movies and street food</br>. As long as your heart tells you to keep on coding and building new things, you will be young, forever."
 
 #sidebar links
 email: khangmo@gmail.com
