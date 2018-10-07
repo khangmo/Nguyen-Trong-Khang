@@ -4,7 +4,7 @@ projects:
       title: HMS
       link: "https://github.com/khangmo/HMS"
       tagline: "Frontend: Angular 6, typescript, css, html, nodejs. Backend: Spring Boots framework."
-    - project:
+  - project:
       title: Organized tour management system
       link: "https://github.com/khangmo/OTMS"
       tagline: "Frontend: reactjs, css, html, nodejs."
