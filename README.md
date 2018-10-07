@@ -1,1 +1,1 @@
-#### Access at https://agiletechvn.github.io/khangnt_cv/
+#### Access at https://khangmo.github.io/khangmo/
