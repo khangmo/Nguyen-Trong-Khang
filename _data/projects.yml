@@ -7,4 +7,4 @@ projects:
   - project:
     title: Organized tour management system
     link: "https://github.com/khangmo/OTMS"
-    tagline: "Frontend: reactjs, css, html, nodejs."
+    tagline: "Frontend: reactjs, css, html, nodejs"
